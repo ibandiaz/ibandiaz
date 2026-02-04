@@ -22,6 +22,32 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=No+internet+connection...+Just+kidding!+%F0%9F%98%84;All+repositories+are+currently+private;Working+on+something+awesome+%F0%9F%9A%80;Stay+tuned+for+updates!" alt="Typing SVG" />
 
 ---
+```bash
+$ whoami
+> Developer who values privacy 🔐
+
+$ ls -la repositories/
+> drwx------  42 user  staff   1.3K  private_projects/
+> drwx------  15 user  staff   512B  secret_code/
+> drwx------  08 user  staff   256B  experimental/
+> -rw-------   1 user  staff     0B  public_repos (empty)
+
+$ cat message.txt
+```
+```javascript
+const myGitHub = {
+  status: "🔒 Private",
+  visibility: "stealth mode",
+  publicRepos: 0,
+  privateRepos: "∞",
+  message: "Great things coming soon! 🚀",
+  
+  askAccess: () => {
+    return "Sorry, invitation only! 😎";
+  }
+};
+```
+---
 
 ### 🎮 Status: Running in Private Mode
 
