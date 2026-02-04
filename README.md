@@ -22,6 +22,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=No+internet+connection...+Just+kidding!+%F0%9F%98%84;All+repositories+are+currently+private;Working+on+something+awesome+%F0%9F%9A%80;Stay+tuned+for+updates!" alt="Typing SVG" />
 
 ---
+<div align="start">
 ```bash
 $ whoami
 > Developer who values privacy 🔐
@@ -47,6 +48,7 @@ const myGitHub = {
   }
 };
 ```
+</div>
 ---
 
 ### 🎮 Status: Running in Private Mode
