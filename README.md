@@ -23,18 +23,6 @@
 
 ---
 
-```bash
-$ whoami
-> Developer who values privacy 🔐
-
-$ ls -la repositories/
-> drwx------  42 user  staff   1.3K  private_projects/
-> drwx------  15 user  staff   512B  secret_code/
-> drwx------  08 user  staff   256B  experimental/
-> -rw-------   1 user  staff     0B  public_repos (empty)
-
-$ cat message.txt
-```
 ```javascript
 const myGitHub = {
   status: "🔒 Private",
